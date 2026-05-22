@@ -1,0 +1,11 @@
+{
+  "name": "valorant-crosshair-vault",
+  "version": "1.0.0",
+  "description": "Valorant Crosshair Vault Web App",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx http-server -p 8080 -c-1",
+    "start": "npx http-server -p 8080 -c-1"
+  },
+  "dependencies": {}
+}
